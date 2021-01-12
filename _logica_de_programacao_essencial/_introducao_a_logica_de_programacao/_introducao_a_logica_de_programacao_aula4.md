@@ -1,4 +1,6 @@
-# Conhecer as expressões aritméticas, literais e as expressões relacionais
+# Introdução à lógica de programação - Aula 4 - Professor Denilson Bonati
+
+* Conhecer as expressões aritméticas, literais e as expressões relacionais
 
 - O que são expressões aritméticas?
 
@@ -38,7 +40,7 @@ x <= y  x é menor ou igual que y?
 x == y  x é igual a y?
 x != y  x é diferente de y?
 
-# Entender e aplicar as tomadas de decisão em um algoritmo 
+* Entender e aplicar as tomadas de decisão em um algoritmo 
 
 "representa 60% da programação"
 

@@ -1,10 +1,12 @@
-# Entender o que é um fluxograma
+# Introdução à lógica de programação - Aula 3 - Professor Denilson Bonati
+
+* Entender o que é um fluxograma
 
 "Fluxograma é uma ferramenta utilizada para representar graficamente o algoritmo, isto é, a sequência lógica e coerente do fluxo de dados".
 
 "Um fluxograma é um tipo de diagrama e pode ser entendido como uma representação esquemática de um processo. podemos entende-lo, na prática, como a documentação dos passos, necessários para execução de um processo qualquer".
 
-# Aprender sobre variáveis, constantes e tipos de dados
+* Aprender sobre variáveis, constantes e tipos de dados
 
 "Na programação, uma variável é um objeto (uma posição, frequentemente localizada na memória) capaz de reter e representar um valor ou expressão".
 
