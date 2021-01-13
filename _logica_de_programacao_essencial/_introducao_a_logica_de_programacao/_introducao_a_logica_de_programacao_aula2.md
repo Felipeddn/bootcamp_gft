@@ -17,7 +17,7 @@
 
 * Exercicio final 
 
-- 1 -> Crie um algoritmo do seu dia
+- 1 -> Crie um algoritmo do seu dia:
     acordo 
     abro o olho
     penso um pouco sobre levantar
