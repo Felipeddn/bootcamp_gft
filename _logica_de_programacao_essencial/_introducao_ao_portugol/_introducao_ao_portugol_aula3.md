@@ -12,4 +12,4 @@ Este comando é similar aos comandos se e senão, esse desvio reduz a complexida
 
 * Boas práticas de programação - Comentários
 
-Comentários é uma forma de comunicar através do código para outros programadores
+Comentários é uma forma de comunicar através do código para outros programadores.
