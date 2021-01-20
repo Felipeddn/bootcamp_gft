@@ -6,7 +6,7 @@ Em resumo conforme produzimos conteúdos é interessante manter cada um desses m
 
 Um dos criadores do git foi Linus Torvalds, responsavel pela criação do sistema operacional Linux.
 
-* Beneficios de aprender git e github
+* Beneficios de aprender git e github:
 
 - Controle de versão
 - Armazenamento em nuvem
