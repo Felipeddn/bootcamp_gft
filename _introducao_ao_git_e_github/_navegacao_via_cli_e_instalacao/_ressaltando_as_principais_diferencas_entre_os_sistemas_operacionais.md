@@ -30,11 +30,24 @@ para conferir se a instalação foi bem sucedida aperte o botão windows e na ba
 acesse a web e verifique os comandos para usa versõa de linux https://git-scm.com/download/linux
 
 uma boa pratica é usar o comando apt get update para atualizar. 
-sudo apt-get update
+**sudo apt-get update**
 
 agora podemos instalar com o comando (isso para ubuntu).
-apt-get install git
+**apt-get install git**
 
-\\ parei no minuto 06:00 do video 
+para confirmar a instalação do git no linux use o comando:
+**git --version**
 
-# Ressaltando as diferenças
+ele precisa retornar uma mensagem parecida com essa:
+git version 2.25.1
+
+* Instalando em MacOS
+
+acesse o site https://git-scm.com/download/mac
+
+instale o homebrew caso não tenha através do comando: 
+**brew install git**
+
+tive a mesma dificuldade do professor Otavio sobre a prática da instalação, não possuo um computador Macintosh.
+
+# Ressaltando as diferença
