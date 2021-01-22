@@ -36,5 +36,8 @@ comando para criar diretorios:
 comando para mover arquivos entre diretorios:
 **mv** nome_do_arquivo nome_do_diretorio_destino
 
+comando para retornar os arquivos e diretorios para untracked 
+**git restore** `--staged`
 
-
+comando para adicionar todos os arquivos do diretório para ser salvo seus estados no git.
+**git add** *
