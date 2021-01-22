@@ -61,3 +61,6 @@ O typora possui uma referência de markdown
 - [x] viver
 - [x] codar
 - [] morrer - não está nos meus planos de vida rs
+
+site para emoji: 
+https://emojipedia.org/
