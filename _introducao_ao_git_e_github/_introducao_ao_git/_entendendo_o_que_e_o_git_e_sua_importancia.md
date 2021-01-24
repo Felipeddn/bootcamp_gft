@@ -1,4 +1,6 @@
-* Introdução ao Git e GitHub - Otávio Reis
+```diff 
+- * Introdução ao Git e GitHub - Otávio Reis
+```
 
 # Git & GitHub
 
