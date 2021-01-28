@@ -1,0 +1,46 @@
+/* enxergando o box model */
+body{
+    background-color: #f7f7f7;
+    /* background: #ccc; */
+    /* background: #fcfcfc; */
+}
+
+.photo{
+    width:700px;
+    height:400px;
+    border-radius: 15px;
+    border: 1px solid #505050;
+}
+
+#title, .subtitle, .post_title {
+    color: #505050;
+}
+
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    /* zerando valores de margin */
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post {
+    /* cor de fundo do elemento */
+    background: #fff;
+
+    /* espaçamento entre o conteúdo e a borda */
+    padding: 10px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_image{
+    margin: 0;
+    margin-bottom: 15px;
+}

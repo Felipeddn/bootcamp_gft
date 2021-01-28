@@ -10,12 +10,17 @@
 /* enxergando o box model */
 body{
     background: #ccc;
+    /* background: #fcfcfc; */
 }
 
 .post {
+    /* cor de fundo do elemento */
     background: #fff;
+
     /* espaçamento entre o conteúdo e a borda */
     padding: 100px;
+
     border: 3px solid #000;
+
     margin: 100px
 }

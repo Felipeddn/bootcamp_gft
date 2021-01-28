@@ -5,13 +5,13 @@ O navegador representa cada elemento HTML com uma caixa retangular, isso é cham
 com o css podemos alterar o box model 
 
 ______________________________
-|    mar                      |
+|    margin                   |
 |    _____________________    |
 |   |  border             |   |
 |   |    ______________   |   |
 |   |   | padding      |  |   |
 |   |   |  __________  |  |   |
-|   |   | | contente | |  |   |
+|   |   | | content  | |  |   |
 |   |   |  ¨¨¨¨¨¨¨¨¨¨  |  |   |
 |   |    ¨¨¨¨¨¨¨¨¨¨¨¨¨¨   |   | 
 |    ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨     |
@@ -21,3 +21,4 @@ ______________________________
 - border é um contorno do padding e conteudo, conseguimos alterar sua aparência como a largura e a cor.
 - padding é o espaçamento entre a borda e o conteúdo
 - content e o que o bloco representa
+
