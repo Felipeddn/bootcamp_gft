@@ -1,4 +1,6 @@
-# propriedades do CSS
+* Introdução a criação de websites com html5 e css3 - Lucas Vilaboim
+
+# propriedades do CSS relacionados ao box-model
 
 ## Padding
 
