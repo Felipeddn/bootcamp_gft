@@ -4,11 +4,13 @@ body{
     /* background: #ccc; */
     /* background: #fcfcfc; */
     font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
 }
 
 .photo{
-    width:700px;
-    height:400px;
+    width:80%;
+    height:80%;
     border-radius: 15px;
     /* 50%  // não ficou legal por esse motivo usei outro estilo*/
     border: 1px solid #505050;
@@ -53,11 +55,14 @@ a{
     margin: 0;
     margin-bottom: 15px;
     text-transform: capitalize;
+    text-align: justify;
 }
 
 .post_image{
     /* margin: 0; */
     margin-bottom: 15px;
+    width: 100%;
+    height: 100%;
 }
 
 .contacts_list{
