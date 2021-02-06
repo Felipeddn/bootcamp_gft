@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Minha página</title>
+        <link rel="stylesheet" href="style.css">
+        <script type="text/javascript" src="./main2.js"></script>
+    </head>
+
+    <body onload="carregar()">
+        <h1>Minha página</h1>
+        <h2>Acesse o console para visualizar os comandos JavaScript (ctrl + shift + I)</h2>
+
+        <button type="button" onclick="mudarMensagem()">Clique aqui!</button>
+        <h3 id='info' onclick="redirecionar()">Clique no botão e veja a mensagem!</h3>
+
+        <div id="caixa" onmouseover="trocar(this)" onmouseout="voltar(this)">
+            Passe o Mouse aqui
+        </div>
+
+        <select name="" id="" onchange="mudar(this)">
+            <option value="1" default>Gray</option>
+            <option value="2">Blue</option>
+            <option value="3">Green</option>
+        </select>
+    </body>
+
+</html>
